@@ -1,5 +1,5 @@
 title: James Conrad
-logo: /assets/JC.png 
+logo: assets/images/JC.png
 description: Data Analysis and Visualisation Portfolio
-show downloads: true
-theme: jekyll-theme-cayman
+show downloads: false
+remote_theme: pages-themes/cayman@v0.2.0
