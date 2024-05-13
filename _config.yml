@@ -1,6 +1,6 @@
 title: James Conrad
 logo: /assets/img/me.png
 description: Data Analysis and Visualisation Portfolio
-show_downloads: true
+show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
