@@ -1,4 +1,4 @@
-# James Conrad - Data Analysis Portfolio
+# Data Analysis Portfolio
 
 ## About
 
