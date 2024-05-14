@@ -11,12 +11,6 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 [View on Tableau Public](https://public.tableau.com/views/ManchesterAirBnBListingsDashboard/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) 
 
 
-
-## World Demographic Analysis Dashboard
-![World Demographic Analysis Dashboard](assets/img/Tableau - Animation.gif)
-
-
-
 ## World Demographic Analysis Dashboard2
 ![World Demographics Dashboard](assets/img/Tableau Animation (2).gif)
 
