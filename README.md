@@ -8,5 +8,7 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 ![Manchester AirBnB Listings Dashboard](assets/img/Manchester AirBnB Dash (Small).png)
 
+![World Demographic Analysis Dashboard](assets/img/Tableau - Animation.gif)
+
 
 
