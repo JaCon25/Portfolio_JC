@@ -1,6 +1,6 @@
 # Data Analysis Portfolio
 
-## About
+### About
 
 Hi, i'm James! I am a seasoned data analyst with a strong background in MI reporting, data analysis, and data visualisation. I started this site to showcase my experience with data analysis and visualisation using Tableau, SQL & Excel.  
 
@@ -12,17 +12,17 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 
 
-#### StartUp Business Quadrant
+### StartUp Business Quadrant
 ![StartUp Business Quadrant](assets/img/StartUpQuadrant.gif)
 
 
 
-## Daily Call Centre Dashboard
+### Daily Call Centre Dashboard
 ![Call Centre Dashboard](assets/img/CallCentreDashboard.gif)
 
 
 
-## Manchester AirBnB Listings Dashboard
+### Manchester AirBnB Listings Dashboard
 ![Manchester AirBnB Listings Dashboard](assets/img/Tableau-ManchesterAirBnBListingsDashboard.gif)
 [View on Tableau Public](https://public.tableau.com/views/ManchesterAirBnBListingsDashboard/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) 
 
