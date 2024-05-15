@@ -8,7 +8,7 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 
 ## StartUp Business Quadrant
-![StartUp Business Quadrant[(assets/img/StartUpQuadrant.gif)
+![StartUp Business Quadrant](assets/img/StartUpQuadrant.gif)
 
 
 
