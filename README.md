@@ -9,6 +9,7 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 ### Sales Summary Executive Dashboard
 ![Sales Summary](assets/img/Tableau-SalesSummary-ezgif.com-crop.gif)
+[View on Tableau Public](https://public.tableau.com/shared/C24RT2WZ4?:display_count=n&:origin=viz_share_link)
 
 
 
@@ -19,6 +20,7 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 ### Daily Call Centre Dashboard
 ![Call Centre Dashboard](assets/img/CallCentreDashboard.gif)
+[View on Tableau Public](https://public.tableau.com/views/CallCentreDashboard_17139916267290/Dashboard1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link) 
 
 
 
@@ -28,7 +30,7 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 
 
-## World Demographic Analysis Dashboard
+### World Demographic Analysis Dashboard
 ![World Demographics Dashboard](assets/img/Tableau Animation (2).gif)
 
 
