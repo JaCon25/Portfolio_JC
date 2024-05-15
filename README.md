@@ -31,7 +31,7 @@ In April 2024 I obtained my [Tableau Data Analyst Certification](https://www.cre
 
 
 ### World Demographic Analysis Dashboard
-![World Demographics Dashboard](assets/img/Tableau Animation (2).gif)
+![World Demographics Dashboard](assets/img/WorldDemographicDashboardAnalysis.gif)
 
 
 
