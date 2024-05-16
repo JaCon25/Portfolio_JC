@@ -58,6 +58,7 @@ The design is fresh, clean and modern, and well-structured which enables the use
 
 ## World Demographic Analysis Dashboard
 This was a Tableau course project I completed.  The course references a Ted Talk episode on 'New insights on poverty' by researcher Hans Rosling.
+
 The visualisation shows how populations of countries across the world have developed over the past 50 years. Specifically, with trends in fertility, life expectancy and population.
 You can see the change in relationship between industrialised countries (small families - long lives) and developing countries (large families - short lives) as time passes.
 
