@@ -23,7 +23,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-      
+      <h1>About</h1>
+
+        <p>Hi, i'm James! I am a seasoned data analyst with a strong background in MI reporting, data analysis, and data visualisation. I started this site to showcase my experience with data analysis and visualisation using Tableau, SQL & Excel.</p>
 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
