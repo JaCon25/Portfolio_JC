@@ -27,7 +27,7 @@ The dashboard was built using the Superstore dataset and can be used by senior e
 This was a challenge on a Tableau course I completed.  A board of directors were reviewing 1000 potentially interesting startups and wanted help in decided which one they were going to invest in.  The criterion for selecting the best investment was: High Revenue, Low Expenses and Top Growth.
 
 
-The interactive dashboard gives the user the feeling of mining the data themselves with the three parameter slide contollers where they are able to select their preferred startup growth and revenue value.  And as the growth leader paramtewr controller is moved each new startup appears in the visible quarter of the grid as a red diamond.
+The interactive dashboard gives the user the feeling of mining the data themselves with the three parameter slide controllers where they are able to select their preferred startup growth and revenue value.  And as the growth leader parameter controller is moved each new startup appears in the visible quarter of the grid as a red diamond for ease of visibility.
 
 
 
