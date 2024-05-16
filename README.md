@@ -2,13 +2,14 @@
 
 
 ## Sales Summary Executive Dashboard
+
+[Click here](https://public.tableau.com/shared/C24RT2WZ4?:display_count=n&:origin=viz_share_link) to view on Tableau Public.
+
+
+
 Prior to sitting the Tableau Data analyst exam, I wanted to give myself more experience using Tableau, so I took inspiration from one of Tableaus’ dashboards in this [article]( https://www.tableau.com/learn/articles/sales-dashboards-examples-and-templates).
 
 The dashboard was built using the Superstore dataset and can be used by senior executives to track sales performance relative to prior quarters.
-
-
-
-[Click here](https://public.tableau.com/shared/C24RT2WZ4?:display_count=n&:origin=viz_share_link) to view on Tableau Public.
 
 
 ![Sales Summary](assets/img/Tableau-SalesSummary-ezgif.com-crop.gif)
