@@ -21,10 +21,10 @@
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
 
-        <p><strong>{{ site.description | default: site.github.project_tagline }}<strong></p>
+        <p><strong>{{ site.description | default: site.github.project_tagline }}</strong></p>
 
     
-        <p>About</p>
+        <p><strong>About</strong></p>
 
         <p>Hi, i'm James! I am a seasoned data analyst with a strong background in MI reporting, data analysis, and data visualisation. I started this site to showcase my experience with data analysis and visualisation using Tableau, SQL & Excel.</p>
         
