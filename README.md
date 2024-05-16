@@ -19,8 +19,17 @@ The dashboard was built using the Superstore dataset and can be used by senior e
 
 
 
-## StartUp Business Quadrant
+## StartUp Quadrant Dashboard
 ![StartUp Business Quadrant](assets/img/StartUpQuadrant.gif)
+
+
+
+This was a challenge on a Tableau course I completed.  A board of directors were reviewing 1000 potentially interesting startups and wanted help in decided which one they were going to invest in.  The criterion for selecting the best investment was: High Revenue, Low Expenses and Top Growth.
+The interactive dashboard gives the user the feeling of mining the data themselves with the three parameter slide contollers.
+
+
+
+[Click here](https://public.tableau.com/shared/7QC9W6QMG?:display_count=n&:origin=viz_share_link) to view on Tableau Public.
 
 
 
