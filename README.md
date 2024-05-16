@@ -12,7 +12,7 @@ I am updating this currently (May 2024)
 ### Sales Summary Executive Dashboard
 Prior to sitting the Tableau Data analyst exam, I wanted to give myself more experience using Tableau, so I took inspiration from one of Tableaus’ dashboards in this [article]( https://www.tableau.com/learn/articles/sales-dashboards-examples-and-templates).
 
-The dashboard was built using Superstore dataset and can be used to track performance relative to prior quarters.
+The dashboard was built using Superstore dataset and can be used to track sales performance relative to prior quarters.
 
 
 
