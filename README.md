@@ -38,8 +38,13 @@ This was a Tableau course project I completed.  The course references a Ted Talk
 The visualisation shows how populations of countries across the world have developed over the past 50 years. Specifically, with trends in fertility, life expectancy and population.
 You can see the change in relationship between industrialised countries (small families - long lives) and developing countries (large families - short lives) as time passes.
 
+
+
+[Click here](https://public.tableau.com/views/WorldDemographicsAnalysisDashboard_17158057489460/WorldDemographics?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link) to view on Tableau Public.
+
+
 ![World Demographics Dashboard](assets/img/WorldDemographicDashboardAnalysis-NEW.gif)
-[View on Tableau](https://public.tableau.com/views/WorldDemographicsAnalysisDashboard_17158057489460/WorldDemographics?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link)
+
 
 
 
