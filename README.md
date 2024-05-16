@@ -1,5 +1,6 @@
 # Data Analysis & Visualisation Portfolio
 
+
 ## Sales Summary Executive Dashboard
 Prior to sitting the Tableau Data analyst exam, I wanted to give myself more experience using Tableau, so I took inspiration from one of Tableaus’ dashboards in this [article]( https://www.tableau.com/learn/articles/sales-dashboards-examples-and-templates).
 
