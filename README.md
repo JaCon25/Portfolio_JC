@@ -37,7 +37,16 @@ The interactive dashboard gives the user the feeling of mining the data themselv
 
 ## Daily Call Centre Dashboard
 ![Call Centre Dashboard](assets/img/CallCentreDashboard.gif)
-[View on Tableau Public](https://public.tableau.com/views/CallCentreDashboard_17139916267290/Dashboard1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link) 
+
+
+
+This was a project to create a call centre dashboard, to give the management team visibility of daily/weekly call stats and call agent performance.  With emphasis particularly on average call time, call waiting, calls answered and calls resolved.  
+
+
+The design is fresh, clean and modern, and well-structured which enables the user to quickly assimilate data.  With the interactive functionality the user can view call specifics by clicking on the agent photo and/or call by department chart.
+
+
+[Click here](https://public.tableau.com/views/CallCentreDashboard_17139916267290/Dashboard1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link) to view on Tableau Public.
 
 
 
