@@ -1,6 +1,4 @@
-# Data Visualisation 
-      # & 
-# Dashboard Design
+# Data Visualisation & Dashboard Design
 
 
 ## Sales Summary Executive Dashboard
