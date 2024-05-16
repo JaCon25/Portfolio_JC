@@ -52,14 +52,27 @@ The design is fresh, clean and modern, and well-structured which enables the use
 
 ## Manchester AirBnB Listings Dashboard
 ![Manchester AirBnB Listings Dashboard](assets/img/Tableau-ManchesterAirBnBListingsDashboard.gif)
-[View on Tableau Public](https://public.tableau.com/views/ManchesterAirBnBListingsDashboard/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) 
+
+
+
+This dashboard project was created using an AirBnB dataset where data for Manchester, UK was used.  
+
+The goal was to create an interactive dashboard utilising the data provided to give an overview and analysis of the AirBnB listing market over the different Manchester districts and neighbourhoods.
+
+
+
+[Click here](https://public.tableau.com/views/ManchesterAirBnBListingsDashboard/Dashboard1?:language=en-GB&:sid=&:display_count=n&:origin=viz_share_link) to view on Tableau Public.
 
 
 
 ## World Demographic Analysis Dashboard
+![World Demographics Dashboard](assets/img/WorldDemographicDashboardAnalysis-NEW.gif)
+
+
+
 This was a Tableau course project I completed.  The course references a Ted Talk episode on 'New insights on poverty' by researcher Hans Rosling.
 
-The visualisation shows how populations of countries across the world have developed over the past 50 years. Specifically, with trends in fertility, life expectancy and population.
+This visualisation utilises Tableaus animation functionality showing how populations of countries across the world have developed over the past 50 years. Specifically, with trends in fertility, life expectancy and population.
 You can see the change in relationship between industrialised countries (small families - long lives) and developing countries (large families - short lives) as time passes.
 
 
@@ -67,7 +80,7 @@ You can see the change in relationship between industrialised countries (small f
 [Click here](https://public.tableau.com/views/WorldDemographicsAnalysisDashboard_17158057489460/WorldDemographics?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link) to view on Tableau Public.
 
 
-![World Demographics Dashboard](assets/img/WorldDemographicDashboardAnalysis-NEW.gif)
+
 
 
 
