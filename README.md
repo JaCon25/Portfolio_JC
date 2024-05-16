@@ -43,7 +43,7 @@ The interactive dashboard gives the user the feeling of mining the data themselv
 This was a project to create a call centre dashboard, to give the management team visibility of daily/weekly call stats and call agent performance.  With emphasis particularly on average call time, call waiting, calls answered and calls resolved.  
 
 
-The design is fresh, clean and modern, and well-structured which enables the user to quickly assimilate data.  With the interactive functionality the user can view call specifics by clicking on the agent photo and/or call by department chart.
+The design is fresh, clean and modern, and well-structured which enables the user to quickly assimilate the data.  With the interactive functionality the user can view call specifics by clicking on the agent photo and/or call by department chart.
 
 
 [Click here](https://public.tableau.com/views/CallCentreDashboard_17139916267290/Dashboard1?:language=pt-BR&:sid=&:display_count=n&:origin=viz_share_link) to view on Tableau Public.
@@ -70,10 +70,12 @@ The goal was to create an interactive dashboard utilising the data provided to g
 
 
 
+
 This was a Tableau course project I completed.  The course references a Ted Talk episode on 'New insights on poverty' by researcher Hans Rosling.
 
 This visualisation utilises Tableaus animation functionality showing how populations of countries across the world have developed over the past 50 years. Specifically, with trends in fertility, life expectancy and population.
 You can see the change in relationship between industrialised countries (small families - long lives) and developing countries (large families - short lives) as time passes.
+
 
 
 
@@ -86,7 +88,7 @@ You can see the change in relationship between industrialised countries (small f
 
 
 
-## END
+##### END
 
 
 
