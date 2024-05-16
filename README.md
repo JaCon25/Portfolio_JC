@@ -18,6 +18,7 @@ The dashboard was built using the Superstore dataset and can be used by senior e
 
 
 
+
 ## StartUp Business Quadrant
 ![StartUp Business Quadrant](assets/img/StartUpQuadrant.gif)
 
