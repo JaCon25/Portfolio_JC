@@ -15,6 +15,7 @@ Prior to sitting the Tableau Data analyst exam, I wanted to give myself more exp
 The dashboard was built using Superstore dataset and can be used to track performance relative to prior quarters.
 
 
+
 ![Sales Summary](assets/img/Tableau-SalesSummary-ezgif.com-crop.gif)
 [View on Tableau Public](https://public.tableau.com/shared/C24RT2WZ4?:display_count=n&:origin=viz_share_link)
 
