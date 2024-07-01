@@ -1,5 +1,9 @@
 # Data Visualisation & Dashboard Design
 
+# Power BI 
+##(Coming Soon)
+
+# Tableau
 
 ## Sales Summary Executive Dashboard
 
