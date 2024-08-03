@@ -6,7 +6,7 @@
 ## Adventureworks HR Dashboard
 
 
-This HR dashboard uses the AdventureWorks dataset 2022 with custom SQL code [here](assets/img/SQL Code - HR Dashboard used to retrieve and manipulate the data.  This was used as an extract and imported into Tabelau.
+This HR dashboard uses the AdventureWorks dataset 2022 with custom SQL code ![here](assets/img/SQL Code - HR Dashboard) used to retrieve and manipulate the data.  This was used as an extract and imported into Tabelau.
 
 ## Sales Summary Executive Dashboard
 
