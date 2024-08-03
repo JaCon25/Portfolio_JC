@@ -1,0 +1,84 @@
+SELECT  E.BusinessEntityID,	
+	P.FirstName,
+    P.LastName,
+	PA.AddressLine1,
+	PA.City,
+	SP.Name as State,
+	E.BirthDate,
+	FLOOR(DATEDIFF(hour,E.BirthDate,'2014-06-30')/8766.0) AS Age,
+	E.Gender,
+	E.MaritalStatus,
+	E.HireDate,	
+	E.JobTitle,
+	D.Name as Department_Name,	
+	D.GroupName,
+	E.SickLeaveHours,
+	E.VacationHours,
+	E.CurrentFlag,
+	S.Name as Shift_Name,
+	CONCAT(LEFT(S.StartTime,5),'-', LEFT(S.EndTime,5)) as Shift,
+	FLOOR(ABS(DATEDIFF(second, S.StartTime, S.EndTime) / 3600.0)) as Shift_Hours,
+	CASE EPH.PayFrequency
+			WHEN 1 THEN 'Monthly'
+			WHEN 2 THEN 'Biweekly'
+		END as Pay_Frequency,
+	CASE WHEN  EPH.RateChangeDate = E.HireDate THEN 'N' ELSE 'Y' END as Salary_Increase, 
+	CAST(CASE WHEN (CASE WHEN EPH.RateChangeDate = E.HireDate THEN 'N' ELSE 'Y' END) = 'N' THEN NULL
+		ELSE EPH.RateChangeDate END as DATE) as Date_Last_Salary_Increase,
+	Rate.Rate
+
+
+FROM [HumanResources].[Employee] E
+
+	INNER JOIN 
+		(
+		SELECT BusinessEntityID, MAX(StartDate) as StartDate, EndDate, ShiftID, DepartmentID
+		FROM [HumanResources].[EmployeeDepartmentHistory] 
+		WHERE EndDate IS NULL
+		GROUP BY BusinessEntityID, EndDate, ShiftID, DepartmentID
+		) EDH
+		ON EDH.BusinessEntityID = E.BusinessEntityID
+
+	INNER JOIN [HumanResources].[Department] D
+		ON D.DepartmentID = EDH.DepartmentID
+
+	INNER JOIN [HumanResources].[Shift] S
+		ON S.ShiftID = EDH.ShiftID
+
+	INNER JOIN [Person].[Person] P
+		ON P.BusinessEntityID = E.BusinessEntityID
+
+	INNER JOIN [Person].[BusinessEntity] PBE
+		ON PBE.BusinessEntityID = P.BusinessEntityID
+
+	INNER JOIN [Person].[BusinessEntityAddress] BEA
+		ON BEA.BusinessEntityID = PBE.BusinessEntityID
+
+	INNER JOIN [Person].[Address] PA
+		ON PA.AddressID = BEA.AddressID
+
+	INNER JOIN 
+		(
+		SELECT BusinessEntityID, MAX(RateChangeDate) as RateChangeDate, PayFrequency
+		FROM [HumanResources].[EmployeePayHistory] 
+		GROUP BY BusinessEntityID, PayFrequency
+		) EPH		
+		ON EPH.BusinessEntityID = E.BusinessEntityID
+
+	INNER JOIN 
+		(
+		SELECT BusinessEntityID, Rate, ModifiedDate
+			from (select
+				   BusinessEntityID, 
+				   ROUND([Rate],2) as Rate, 
+				   ModifiedDate
+				  ,ROW_NUMBER() over (partition by [BusinessEntityID] order by ABS(DATEDIFF(dd, ModifiedDate, GETDATE()))) Ranking
+				  from [HumanResources].[EmployeePayHistory]
+				  ) x
+				  where Ranking = 1
+		) Rate ON Rate.BusinessEntityID = E.BusinessEntityID
+
+	INNER JOIN [Person].[StateProvince] SP
+		ON SP.StateProvinceID = PA.StateProvinceID
+
+	ORDER BY E.BusinessEntityID ASC
