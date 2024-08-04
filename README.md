@@ -5,7 +5,7 @@
 
 ## Adventureworks HR Dashboard
 
-![HR Dashboard](assets/img/Gif.gif)
+![HR Dashboard](assets/img/HR Dash_gif.gif)
 
 
 
