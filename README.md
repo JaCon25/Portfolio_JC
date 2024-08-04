@@ -10,7 +10,12 @@
 
 
 
-This HR dashboard uses the AdventureWorks dataset 2022 with custom SQL code [here](https://github.com/JaCon25/Portfolio_JC/blob/main/SQL%20Code%20-%20HR%20Dashboard). used to retrieve and manipulate the data.  This was used as an extract and imported into Tabelau.
+The HR dashboard uses the AdventureWorks dataset 2022 with custom [SQL code](https://github.com/JaCon25/Portfolio_JC/blob/main/SQL%20Code%20-%20HR%20Dashboard) used to retrieve and manipulate the data.  This was expoted as an Excel file then  imported into Tabeleau.
+
+This can be used as a workforce management tool incorporating details such as demographics, compensation, workforce growth and costs.
+
+
+
 
 ## Sales Summary Executive Dashboard
 
