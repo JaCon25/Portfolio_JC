@@ -16,6 +16,10 @@ This can be used as a workforce management tool incorporating details such as de
 
 
 
+[Click here](https://public.tableau.com/views/HRDash_17226920473880/Overview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) to view on Tableau Public.
+
+
+
 
 ## Sales Summary Executive Dashboard
 
