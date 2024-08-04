@@ -23,11 +23,10 @@
 
         <p><strong>About</strong></p>
 
-        <p>Hi, i'm James! I am a seasoned data analyst with a strong background in MI reporting, data analysis, and data visualisation. I created this site to showcase my experience with data visualisation and dashboard design using Tableau and Power BI as my visualisation tools and using SQL and Excel to extract and clean the data.</p>
+        <p>Hi, i'm James! I am a seasoned data analyst with a strong background in MI reporting, data analysis, and data visualisation. I created this site to showcase my experience with data visualisation and dashboard design using Tableau as my visualisation tools and using SQL and Excel to extract and clean the data.</p>
         
         <p>In April 2024 I obtained my <a href="https://www.credly.com/badges/56065f86-bdd9-4863-a18e-eeb7be74cf17/public_url">Tableau Data Analyst Certification</a>; this was my second Tableau certification after first achieving the <a href="https://www.credly.com/badges/98053c2c-3344-449c-a48c-f7127e5c20cf/public_url"> Tableau Desktop Specialist Certification </a> in June 2023.
-          I am also updating my Power BI skills and I`m looking to obtain the <a href="https://learn.microsoft.com/en-us/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification">PL-300 Microsoft Certified: Power BI Data Analyst Associate certification</a> over the coming months.
-        
+                 
         {% if site.github.is_user_page %}
         <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
         {% endif %}
